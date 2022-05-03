@@ -1,0 +1,7 @@
+[user]
+	email = 02whitten.smith@gulllakecs.org
+	name = smithwhitten
+[core]
+	longpaths = true
+[safe]
+	directory = %(prefix)///glcs-fs1/studentusers$/02WHITTEN.SMITH/
