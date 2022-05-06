@@ -16,5 +16,3 @@ banner "Copying files"
 sleep 4
 
 banner "Finished."
-
-banner "Finished."
